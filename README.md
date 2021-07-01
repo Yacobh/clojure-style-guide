@@ -1,6 +1,6 @@
 # Guía de estilo para Clojure
 
-> Los models a seguir son importantes. <br/> 
+> Los modelos a seguir son importantes. <br/> 
 > -- Oficial Alex J. Murphy / RoboCop
 
 Esta guía de estilo para Clojure recomienda mejores practicas con el
@@ -63,8 +63,8 @@ Traducciones de esta guía están disponibles en los siguientes idiomas:
 
 ## Diseño y organización de código fuente
 
-> Casi todos están convencido que todos los estilos, salvo el suyo, es
-> feo e ilegible. Elimina "salvo el suyo" y probablemente estén en lo
+> Casi todos están convencido que todos los estilos, salvo el suyo, son
+> feos e ilegibles. Elimina "salvo el suyo" y probablemente estén en lo
 > correcto... <br/> -- Jerry Coffin (acerca de indentación/sangría)
 
 * <a name="spaces"></a> Para indentación/sangría usa **espacios** y no
